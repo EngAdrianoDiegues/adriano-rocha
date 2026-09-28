@@ -1,0 +1,7 @@
+{
+  "name": "Libris — Rede Social & Avaliação de Livros",
+  "description": "Rede social para apaixonados por leitura com catálogo, avaliações detalhadas estilo IMDb/Letterboxd, feed comunitário e acompanhamento de leituras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#0d0f12"/>
+  <rect x="24" y="24" width="464" height="464" rx="96" fill="none" stroke="#f59e0b" stroke-width="8" opacity="0.3"/>
+  <path d="M120 140 C120 140 180 120 256 160 C332 120 392 140 392 140 L392 360 C392 360 332 340 256 380 C180 340 120 360 120 360 Z" fill="#1c212a" stroke="#d97706" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M256 160 L256 380" stroke="#f59e0b" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 180 C180 170 220 185 240 195" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M150 215 C180 205 220 220 240 230" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M150 250 C180 240 220 255 240 265" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M362 180 C332 170 292 185 272 195" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M362 215 C332 205 292 220 272 230" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <path d="M362 250 C332 240 292 255 272 265" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  <!-- Gold star on top -->
+  <polygon points="256,90 264,114 290,114 269,130 277,154 256,138 235,154 243,130 222,114 248,114" fill="#fbbf24"/>
+</svg>
